@@ -22,14 +22,6 @@ Sou estudante de **Informática para Internet** pela AMS, com foco em desenvolvi
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaspianco133-bot&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspianco133-bot&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Projetos
 
 ### Solitus - Construtora Fictícia
