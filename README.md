@@ -1,48 +1,120 @@
-# Olá, eu sou Lucas Piancó Souza 👋
+# Olá! Eu sou Lucas Piancó Souza 👋
 
-**Estudante de Informática para Internet - AMS | ETEC**
+**Estudante de Informática para Internet (AMS) | ETEC Bartolomeu Bueno da Silva**
 
-Bem-vindo ao meu portfólio! Sou um estudante apaixonado por desenvolvimento web e programação, sempre buscando aprender e criar soluções inovadoras.
+Bem-vindo ao meu GitHub!
 
----
-
-## 📚 Sobre Mim
-
-Sou estudante de **Informática para Internet** pela AMS, com foco em desenvolvimento web e programação. Estou em constante aprendizado e desenvolvimento de projetos práticos que me ajudam a consolidar meus conhecimentos.
+Sou estudante do curso de informática-para-internet na ETEC, apaixonado por tecnologia e sempre em busca de aprender algo novo. Gosto de transformar o conhecimento adquirido em cursos e estudos em projetos práticos, buscando evoluir constantemente como desenvolvedor.
 
 ---
 
-## 💻 Habilidades
+#  Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Projetos
-
-### Solitus - Construtora Fictícia
-
-Uma plataforma web para uma construtora fictícia oferecendo diversos serviços:
-
-- 🏗️ **Serviços de Construção** - Projetos e execução de obras  
-- 🎨 **Pintura** - Serviços de pintura residencial e comercial  
-- 🔧 **Reforma** - Reformas e renovações de espaços  
-- 🛠️ **Aluguel de Ferramentas** - Disponibilização de ferramentas para aluguel  
-
-**Tecnologias utilizadas:** HTML, CSS
+-  Estudante de Informática para Internet (AMS)
+-  Desenvolvendo projetos 
+-  Estudando Python, MySQL, Docker e desenvolvimento Web
+-  Interessado em Engenharia de Dados
+-  Sempre buscando aprender novas tecnologias
 
 ---
 
-## 📞 Contato
+#  Tecnologias
 
-- **LinkedIn:** [Lucas Piancó Souza](https://www.linkedin.com/in/lucas-pianco-souza)  
-- **E-mail:** lucaspianco133@gmail.com  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,html,css,js,git,github" />
+</p>
 
 ---
 
-⭐ Fique à vontade para explorar meus projetos e entrar em contato!
+#  Projetos em destaque
+
+##  Batalha Naval
+
+Projeto desenvolvido em HTML, CSS e JavaScript inspirado no clássico jogo Batalha Naval.
+
+### Funcionalidades
+
+- Sistema de Login
+- Menu inicial
+- Três níveis de dificuldade
+- Partidas contra a máquina
+- Sistema de pontuação
+- Interface responsiva
+- Temporizador de partida
+
+**Tecnologias:** HTML • CSS • JavaScript
+
+**Link:** https://batalha-naval-web.vercel.app/
+
+---
+
+##  Mini ETL
+
+Projeto desenvolvido para praticar conceitos de Engenharia de Dados.
+
+O processo realiza:
+
+- Importação de arquivos CSV
+- Tratamento e limpeza dos dados
+- Transformações utilizando Pandas
+- Armazenamento dos dados em SQLite
+- Organização do pipeline em etapas
+
+**Tecnologias:** Python • Pandas • SQLite
+
+**Link:** https://github.com/LucasPiancoSouza/Mini-ELT
+
+---
+
+##  Solitus
+
+Site institucional de uma construtora fictícia.
+
+### Funcionalidades
+
+- Página institucional
+- Apresentação dos serviços
+- Layout responsivo
+- Design moderno
+
+**Tecnologias:** HTML • CSS
+
+**Link:** https://github.com/LucasPiancoSouza/SolitusConstrutora
+
+---
+
+#  Estudos e Projetos de Cursos
+
+Além deste perfil, mantenho uma conta dedicada exclusivamente aos projetos desenvolvidos durante cursos, bootcamps, laboratórios e estudos.
+
+Assim, este GitHub permanece focado em projetos pessoais e de portfólio.
+
+🔗 **Conta de estudos:**
+
+**https://github.com/LucasSouza1308**
+
+---
+
+#  Atualmente estudando
+
+- Python
+- MySQL
+- Docker
+- Git e GitHub
+- Pandas
+- JavaScript
+- PHP
+
+---
+
+#  Contato
+
+-  LinkedIn:
+  https://www.linkedin.com/in/lucas-pianco-souza
+
+-  Email:
+  lucaspianco133@gmail.com
+
+---
+
+ Obrigado por visitar meu perfil!
