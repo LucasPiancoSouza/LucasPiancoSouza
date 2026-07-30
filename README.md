@@ -4,17 +4,7 @@
 
 Bem-vindo ao meu GitHub!
 
-Sou estudante do curso de informática-para-internet na ETEC, apaixonado por tecnologia e sempre em busca de aprender algo novo. Gosto de transformar o conhecimento adquirido em cursos e estudos em projetos práticos, buscando evoluir constantemente como desenvolvedor.
-
----
-
-#  Sobre mim
-
--  Estudante de Informática para Internet (AMS)
--  Desenvolvendo projetos 
--  Estudando Python, MySQL, Docker e desenvolvimento Web
--  Interessado em Engenharia de Dados
--  Sempre buscando aprender novas tecnologias
+Sou estudante do curso de informática-para-internet na ETEC, apaixonado por tecnologia e sempre em busca de aprender algo novo. Gosto de transformar o conhecimento adquirido nos cursos e em estudos em projetos práticos, buscando evoluir constantemente como desenvolvedor.
 
 ---
 
