@@ -11,7 +11,7 @@ Sou estudante do curso de informática-para-internet na ETEC, apaixonado por tec
 #  Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,docker,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github" />
 </p>
 
 ---
